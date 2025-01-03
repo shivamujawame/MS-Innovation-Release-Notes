@@ -2,4 +2,14 @@
 
 ### 31 December 2024
 
-- Updated GitHub Copilot extension UI from **Make Request** to **Send and Dispatch**.
+-  Major Updates  
+
+    - **Model Deprecation Notice**  
+        - **gpt-35-turbo version 0134** will be deprecated, with new default models available based on region starting **January 12, 2025**.  
+
+- Minor Updates  
+
+    - Updated references from **Azure OpenAI Studio** to the rebranded **Azure AI Foundry Portal**.  
+    - In **PowerShell**, upgraded the **OpenAI package** version from **1.0.0** to **1.56.2**.  
+    - Updated the **.NET SDK** from version **7** to **8**.
+    - Implemented updates to the **Azure Cloud Shell UI** for a modernized and more intuitive user experience.

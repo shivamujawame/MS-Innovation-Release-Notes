@@ -4,28 +4,17 @@
 
 ### 31 December 2024
 
-- Have updated the Azure OpenAI Studio to **Azure AI Foundry Portal**.
+- Major Updates  
 
-- Model version of gpt-35-turbo; 0134 will be deprecated. New default based on region availability after Jan 12, 2025. 
+    - **Model Deprecation Notice**  
+        - The **gpt-35-turbo version 0134** will be deprecated. New default models based on region availability will take effect after **January 12, 2025**.  
 
-- Updated the UI changes in Azure Cloudshell.
+    - **UI Enhancements**  
+        - Updated the **Azure Cloud Shell UI**, providing an improved interface for a more seamless user experience.  
 
-# Build Prompt Engineering With Azure OpenAI Service 
+- Minor Updates  
 
-- Have updated the Azure OpenAI Studio to **Azure AI Foundry Portal**.
-
-- In PowerShell, while running python file, we have updated OpenAI version from 1.0.0 to 1.56.2. 
-
-- Code for .NET SDK is updated from version 7 to 8. 
-
-- Updated the UI changes in Azure Cloudshell. 
-
-# Integrate Azure OpenAI Into Your App(Lunch And Learn) 
-
-- Have updated the Azure OpenAI Studio to **Azure AI Foundry Portal**. 
-
-- Have updated the gpt-35-turbo version from 0314 to 0125. 
-
-- Updated the .NET SDK version from 7 to 8. 
-
-- Updated the UI changes in Azure Cloudshell. 
+    - Updated all references from **Azure OpenAI Studio** to **Azure AI Foundry Portal** across all relevant modules, aligning with the platform's rebranding.  
+    - In **PowerShell**, while running Python scripts, the **OpenAI package** version has been upgraded from **1.0.0** to **1.56.2**.  
+    - Updated **.NET SDK** from **version 7** to **8**, ensuring compatibility with the latest features and improvements.  
+    - The **gpt-35-turbo version** has been updated from **0314** to **0125** in the **Lunch and Learn** module.  

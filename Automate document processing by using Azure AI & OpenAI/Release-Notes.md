@@ -2,14 +2,19 @@
 
 ### 31 December 2024
 
-- Updated the Azure OpenAI Studio to **Azure AI Foundry Portal**.
+### Release Notes  
 
-- Revised the lab guide screenshots to incorporate the new Azure OpenAI logo in alignment with the latest UI.
+- Minor Updates 
 
-- Updated Cognitive search to **AI Search**. 
+  - **Azure OpenAI Studio Enhancements**  
+    - Updated references to **Azure OpenAI Studio** to the rebranded **Azure AI Foundry Portal** for consistency with the latest updates.  
+    - Revised the lab guide screenshots to reflect the new Azure OpenAI logo, aligning with the updated UI.  
 
-- **Lab 02: Utilize your Data Set using OpenAI**
+  - **Cognitive Search Update**  
+    - Renamed **Cognitive Search** to **AI Search** across all relevant sections to match the new terminology.
 
-  - Added a workaround NOTE in **Task 2: Upload your own data** to address potential issues related to CORS.
-
-  - Included a workaroud NOTE in **Task 3: Interact with Azure OpenAI ChatGPT LLM using your own data** in case of any issues faced with the Webapp. 
+  - **Lab 02: Utilize Your Data Set Using OpenAI**  
+    - **Task 2: Upload Your Own Data**  
+      - Added a workaround **NOTE** to address potential **CORS-related issues**, ensuring smoother data upload experiences.  
+    - **Task 3: Interact with Azure OpenAI ChatGPT LLM Using Your Own Data**  
+      - Included a workaround **NOTE** to resolve issues users might encounter while using the Webapp, enhancing usability and troubleshooting clarity.

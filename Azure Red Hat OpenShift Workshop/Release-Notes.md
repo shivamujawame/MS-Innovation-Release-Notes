@@ -2,7 +2,13 @@
 
 ### 31 December 2024
 
-- Implemented updates to the UI in Azure Cloud Shell.
+- Major Updates  
 
-- Enhanced lab guide instructions and updated screenshots for better user experience.
-  
+    - **Azure Cloud Shell UI Enhancements**
+        - Implemented significant updates to the **Azure Cloud Shell** UI, providing a more streamlined and intuitive user interface for improved user experience.
+
+- Minor Updates  
+
+    - Enhanced lab guide instructions for greater clarity and ease of use.  
+    - Updated screenshots across the lab guide to reflect the latest UI changes, ensuring alignment with the updated Azure Cloud Shell design.  
+
