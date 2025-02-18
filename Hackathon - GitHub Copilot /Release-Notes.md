@@ -33,9 +33,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
     - Updated the UI changes in regards to GitHub Copilot Extension in visual studio code.
 
-## Release Notes
-
-### [Release Date: 2025-02-17]
+### 2 February 2025
 
 - **Change**: Updated useful links on Github copilot in Challenge 0 content.
 - **Testing Date**: 2025-02-17
