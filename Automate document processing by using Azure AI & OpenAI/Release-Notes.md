@@ -69,7 +69,6 @@ In this section, we will track and list each change introduced in the latest rel
 
 - **Change**: Minor Updates
 - **Testing Date**: 2024-12-31
-- **Notes**: Any additional information or context related to the change.
 
 ## Infrastructure Changes
 
