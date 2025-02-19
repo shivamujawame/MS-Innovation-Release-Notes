@@ -4,7 +4,7 @@ Welcome to the **Automate document processing by using Azure AI & OpenAI** Readm
 
 ## Overview
 
-This repository contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
 
 - Testing dates
 - Descriptions of changes to lab infrastructure
@@ -66,7 +66,7 @@ For any further details or inquiries, feel free to reach out to the MS-Innovatio
 
 In this section, we will track and list each change introduced in the latest release:
 
-### [Release Date: YYYY-MM-DD]
+### [Release Date: 2024-12-31]
 
 - **Change**: Minor Updates
 - **Testing Date**: 2024-12-31
@@ -74,20 +74,29 @@ In this section, we will track and list each change introduced in the latest rel
 
 ## Infrastructure Changes
 
-List any updates or modifications made to the lab infrastructure, including server updates, environment changes, or configuration updates.
-
-### Example
-
-- **Change**: Updated server configuration for improved performance.
-- **Details**: The backend server was upgraded to a more powerful instance to handle increased traffic.
+NA
 
 ## Content Changes
 
 - **Change**: Minor UI Changes and instructions updated.
+  - Minor Updates 
+
+    - **Azure OpenAI Studio Enhancements**  
+      - Updated references to **Azure OpenAI Studio** to the rebranded **Azure AI Foundry Portal** for consistency with the latest updates.  
+      - Revised the lab guide screenshots to reflect the new Azure OpenAI logo, aligning with the updated UI.  
+
+    - **Cognitive Search Update**  
+      - Renamed **Cognitive Search** to **AI Search** across all relevant sections to match the new terminology.
+
+    - **Lab 02: Utilize Your Data Set Using OpenAI**  
+      - **Task 2: Upload Your Own Data**  
+        - Added a workaround **NOTE** to address potential **CORS-related issues**, ensuring smoother data upload experiences.  
+      - **Task 3: Interact with Azure OpenAI ChatGPT LLM Using Your Own Data**  
+        - Included a workaround **NOTE** to resolve issues users might encounter while using the Webapp, enhancing usability and troubleshooting clarity.
 
 ## Screenshot Updates
 
-Keep track of any modifications to the screenshots used within the lab content, ensuring that they are up-to-date with the current lab version.
+- **Change**: Updated the screenshots as per the latest UI changes.
 
 ## Testing Notes
 
