@@ -23,6 +23,9 @@
 
 Welcome to the **Automate document processing by using Azure AI & OpenAI** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
+
+<summary>2025-01-30</summary>
+
 ## Table of Contents
 
 - [Overview](#overview)
