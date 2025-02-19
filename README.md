@@ -60,7 +60,6 @@ Keep track of any modifications to the screenshots used within the lab content, 
 ## Testing Notes
 
 - **Testing Date**: YYYY-MM-DD
-- **Tester**: [Name of the tester]
 - **Tested Features**: List of features tested during the session.
 - **Issues Found**: Any bugs or issues discovered during testing.
 - **Resolved Issues**: A list of issues that were resolved since the last testing cycle.
