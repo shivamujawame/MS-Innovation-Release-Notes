@@ -42,8 +42,6 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2025-01-30
-- **Issues Found**: NA
-- **Resolved Issues**: NA
 
 ---
 </details>
@@ -89,8 +87,6 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2024-12-31
-- **Issues Found**: NA
-- **Resolved Issues**: NA
 
 ---
 </details>
