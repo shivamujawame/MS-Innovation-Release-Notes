@@ -1,6 +1,6 @@
 # Build Prompt Engineering with Azure OpenAI Service
 
-Welcome to the **Build Prompt Engineering with Azure OpenAI Service** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Build Prompt Engineering with Azure OpenAI Service** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -22,9 +22,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 In this section, we will track and list each change introduced in the latest release:
 
-## Release Date: 2025-01-30
+## Release Date: 2025-02-17
 
-- **Change**: Minor UI Changes and instructions updated.
+- **Change**: Replaced the OpenAI service model, as **gpt-35-turbo-16k** is being deprecated soon. I have now updated it to **gpt-35-turbo (0125)**.
 - **Testing Date**: 2025-02-17
 
 ## Infrastructure Changes
