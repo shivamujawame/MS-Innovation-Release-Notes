@@ -42,7 +42,6 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2025-01-30
-- **Tested Features**: ARM templates, VM shadow, Validations.
 - **Issues Found**: NA
 - **Resolved Issues**: NA
 
@@ -90,7 +89,6 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2024-12-31
-- **Tested Features**: ARM templates, VM shadow, Validations.
 - **Issues Found**: NA
 - **Resolved Issues**: NA
 
