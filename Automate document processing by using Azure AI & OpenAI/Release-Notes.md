@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 In this section, we will track and list each change introduced in the latest release:
 
-### [Release Date: 2025-01-30]
+### Release Date: 2025-01-30
 
 - **Change**: Minor UI Changes and instructions updated.
 - **Testing Date**: 2025-01-30
@@ -56,7 +56,7 @@ NA
 
 In this section, we will track and list each change introduced in the latest release:
 
-### [Release Date: 2024-12-31]
+### Release Date: 2024-12-31
 
 - **Change**: Minor Updates
 - **Testing Date**: 2024-12-31
