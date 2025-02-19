@@ -25,8 +25,7 @@ Welcome to the **Automate document processing by using Azure AI & OpenAI** Readm
 
 
 <summary>2025-01-30</summary>
-
-## Table of Contents
+- Table of Contents
 
 - [Overview](#overview)
 - [Release Notes](#release-notes)
