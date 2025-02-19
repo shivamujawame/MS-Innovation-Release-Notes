@@ -4,7 +4,9 @@ Welcome to the **Automate document processing by using Azure AI & OpenAI** Readm
 
 # Release Notes
 
-### 31 December 2024
+
+<details>
+  <summary>2024-12-31</summary>
 
 ### Release Notes  
 
@@ -22,10 +24,7 @@ Welcome to the **Automate document processing by using Azure AI & OpenAI** Readm
       - Added a workaround **NOTE** to address potential **CORS-related issues**, ensuring smoother data upload experiences.  
     - **Task 3: Interact with Azure OpenAI ChatGPT LLM Using Your Own Data**  
       - Included a workaround **NOTE** to resolve issues users might encounter while using the Webapp, enhancing usability and troubleshooting clarity.
-
-# Automate document processing by using Azure AI & OpenAI Release Notes
-
-Welcome to the **Automate document processing by using Azure AI & OpenAI** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+</details>
 
 <details>
   <summary>2025-01-30</summary>
