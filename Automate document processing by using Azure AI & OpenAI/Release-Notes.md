@@ -20,6 +20,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 - [Screenshot Updates](#screenshot-updates)
 - [Testing Notes](#testing-notes)
 
+`For any further details or inquiries, feel free to reach out to the MS-Innovation development team.`
+
 # Release Notes
 
 <details>
@@ -55,7 +57,7 @@ NA
 
 ---
 
-For any further details or inquiries, feel free to reach out to the MS-Innovation development team.
+`For any further details or inquiries, feel free to reach out to the MS-Innovation development team.`
 
 </details>
 
