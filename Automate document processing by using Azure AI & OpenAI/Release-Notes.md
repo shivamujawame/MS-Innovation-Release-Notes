@@ -11,12 +11,7 @@ This repository contains detailed notes about the latest updates and modificatio
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-# Release Notes
-
-<details>
-  <summary>2025-01-30</summary>
-
-- Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Release Notes](#release-notes)
@@ -25,11 +20,16 @@ This repository contains detailed notes about the latest updates and modificatio
 - [Screenshot Updates](#screenshot-updates)
 - [Testing Notes](#testing-notes)
 
+# Release Notes
+
+<details>
+  <summary>2025-01-30</summary>
+
 ## Release Notes
 
 In this section, we will track and list each change introduced in the latest release:
 
-### [Release Date: YYYY-MM-DD]
+### [Release Date: 2025-01-30]
 
 - **Change**: Minor UI Changes and instructions updated.
 - **Testing Date**: 2025-01-30
@@ -62,32 +62,14 @@ For any further details or inquiries, feel free to reach out to the MS-Innovatio
 <details>
   <summary>2024-12-31</summary>
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Release Notes](#release-notes)
-- [Infrastructure Changes](#infrastructure-changes)
-- [Content Changes](#content-changes)
-- [Screenshot Updates](#screenshot-updates)
-- [Testing Notes](#testing-notes)
-
-## Overview
-
-This repository contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
-
-- Testing dates
-- Descriptions of changes to lab infrastructure
-- Updates to content or documentation
-- Changes to screenshots and visuals used in the lab
-
 ## Release Notes
 
 In this section, we will track and list each change introduced in the latest release:
 
 ### [Release Date: YYYY-MM-DD]
 
-- **Change**: Description of the change made (e.g., bug fix, new feature added, performance improvement).
-- **Testing Date**: YYYY-MM-DD
+- **Change**: Minor Updates
+- **Testing Date**: 2024-12-31
 - **Notes**: Any additional information or context related to the change.
 
 ## Infrastructure Changes
@@ -101,28 +83,18 @@ List any updates or modifications made to the lab infrastructure, including serv
 
 ## Content Changes
 
-Document any changes made to the content, such as updates to documentation, code changes, or revisions in lab exercises.
-
-### Example
-
-- **Change**: Updated the lab exercise on machine learning models.
-- **Details**: Added new example code to illustrate the process of hyperparameter tuning.
+- **Change**: Minor UI Changes and instructions updated.
 
 ## Screenshot Updates
 
 Keep track of any modifications to the screenshots used within the lab content, ensuring that they are up-to-date with the current lab version.
 
-### Example
-
-- **Change**: Updated the screenshot showing the lab environment setup.
-- **Details**: New screenshot reflects the changes in the user interface after the recent UI update.
-
 ## Testing Notes
 
-- **Testing Date**: YYYY-MM-DD
-- **Tested Features**: List of features tested during the session.
-- **Issues Found**: Any bugs or issues discovered during testing.
-- **Resolved Issues**: A list of issues that were resolved since the last testing cycle.
+- **Testing Date**: 2024-12-31
+- **Tested Features**: ARM templates, VM shadow, Validations.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
 
 ---
 
