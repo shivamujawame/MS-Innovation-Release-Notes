@@ -11,16 +11,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Release Notes](#release-notes)
-- [Infrastructure Changes](#infrastructure-changes)
-- [Content Changes](#content-changes)
-- [Screenshot Updates](#screenshot-updates)
-- [Testing Notes](#testing-notes)
-
-`For any further details or inquiries, feel free to reach out to the MS-Innovation development team.`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 
