@@ -9,4 +9,4 @@
 - Minor Updates
 
     - Enhanced lab guide instructions to improve clarity and usability for participants.  
-    - Updated screenshots across the lab guide to reflect the latest UI changes, ensuring a consistent and intuitive us
+    - Updated screenshots across the lab guide to reflect the latest UI changes.
