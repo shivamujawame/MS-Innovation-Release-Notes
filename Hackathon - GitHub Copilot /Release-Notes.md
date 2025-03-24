@@ -22,6 +22,12 @@ This repository contains detailed notes about the latest updates and modificatio
 
 # Release Notes
 
+### 24 March 2025
+
+- Minor Updates
+
+    - Tested the lab successfully along with validations.
+
 ### 31 December 2024
 
 - Major Updates
@@ -52,8 +58,8 @@ NA
 
 ## Testing Notes
 
-- **Testing Date**: 2025-02-17
-- **Tester**: [Prajwal Kumar]
+- **Testing Date**: 2025-03-24
+- **Tester**: [Sanket S T]
 - **Tested Features**: List of features tested during the session.
 - **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process..
 - **Resolved Issues**: NA
