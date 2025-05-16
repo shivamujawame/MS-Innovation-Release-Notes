@@ -1,7 +1,7 @@
 # Release Notes
 
 <details>
-  <summary>09 May 2025</summary>
+  <summary>08 May 2025</summary>
 
 - Updates
 
@@ -10,7 +10,7 @@
   - Updated the SAS token used in automation scripts.
   - Modified Module 08: Scaling out GitHub Advanced Security to ensure the Invocations option appears under the HttpTrigger1 function in the Function App.
 
-- **Testing Date**: 09 May 2025
+- **Testing Date**: 08 May 2025
 
 </details>
 
