@@ -12,7 +12,27 @@
   - Updated all references from **Azure OpenAI Studio** to the newly rebranded **Azure AI Foundry Portal**.
   - Updated **Cognitive Search** to the new **AI Search**, aligning with the latest platform changes.
 
- ### 15 May 2025
+# Release Notes
 
-- Ensured all the lab guide instructions & screenshots are upto date.
+<details>
+  <summary>2025-05-16</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: Minor UI Changes and instructions updated.
+
+## Screenshot Updates
+
+- **Change**: Screenshots are upto date.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-16
+
+---
+</details>
   
