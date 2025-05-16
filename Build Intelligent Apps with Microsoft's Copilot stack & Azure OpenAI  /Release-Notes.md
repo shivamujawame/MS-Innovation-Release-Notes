@@ -1,5 +1,28 @@
 # Release Notes
 
+<details>
+  <summary>2025-05-16</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: Minor UI Changes and instructions updated.
+
+## Screenshot Updates
+
+- **Change**: Screenshots are upto date.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-05
+
+---
+</details>
+
+
 ### 31 December 2024
 
 ### Release Notes  
