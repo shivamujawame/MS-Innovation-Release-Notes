@@ -34,15 +34,15 @@ In this section, we will track and list each change introduced in the latest rel
 
 ## Screenshot Updates
 
-    - Change: Updated the screenshots as per the latest UI changes.
+- Change: Updated the screenshots as per the latest UI changes.
 
 ## Infrastructure Changes
 
-     NA
+- NA
 
 ## Testing Notes
 
-  - **Testing Date**: 2025-05-13
+- **Testing Date**: 2025-05-13
 
 # Release Notes
 
