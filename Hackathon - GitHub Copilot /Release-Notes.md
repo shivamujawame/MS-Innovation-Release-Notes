@@ -22,6 +22,27 @@ This repository contains detailed notes about the latest updates and modificatio
 
 # Release Notes
 
+### 12nd May 2025
+
+- **Change**: The GitHub login process has been updated to use Single Sign-On (SSO).
+- **Testing Date**: 2025-05-12
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: The guide update is currently pending, as the use of SSO is impacting one of the steps in Challenge 3. We will proceed with updating the guide once the SSO process is finalized.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-12
+- **Tester**: [Prajwal Kumar]
+- **Issues Found**: The lab was tested with GitHub SSO enabled. In Challenge 3, the workflow creation using App Service is failing.<br>
+Task validations involving GitHub files are not functioning correctly due to the username change introduced by SSO.
+- **Resolved Issues**: No, The issue in Challenge 3 is still ongoing and currently under investigation.
+
 ### 24 March 2025
 
 - Minor Updates
