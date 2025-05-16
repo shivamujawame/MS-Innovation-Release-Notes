@@ -1,5 +1,9 @@
 # Release Notes
 
+### 7 May 2025
+
+- Tested the lab end to end along with lab validations.
+
 ### 21 March 2025
 
 - Minor Updates
