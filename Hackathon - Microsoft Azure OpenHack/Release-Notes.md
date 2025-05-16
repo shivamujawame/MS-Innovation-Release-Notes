@@ -1,12 +1,25 @@
 # Release Notes
 
-### 1 April 2025
+## 22 April 2025
+
+#### Infrastructure Changes
+- NA
+#### Content Changes
+- Challenge 06: Updated the `script.js` file as per the latest content updates in challenge and solution guides.
+#### Screenshot Updates
+- Screenshots are upto date.
+#### Testing Notes
+- Tested the lab end to end along with lab validations.
+#### Testing Date
+- 2025-04-22
+
+## 1 April 2025
 
 - Minor Updates
     
     - Tested the lab end to end with minor UI updates.
 
-### 31 March 2025
+## 31 March 2025
 
 - Major Updates
 
