@@ -1,6 +1,29 @@
 # Release Notes
 
-## 31 December 2024
+<details>
+  <summary>09 May 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**
+    - In Challenge 2, updated the GitHub repository with the latest changes from the parent repository.
+    - Added additional details to the Attendee Guide for Challenge 2. This included updating the instructions to incorporate base64Encode via a JSON update, reflecting recent changes in the Azure UI.
+    - Added additional details to the Attendee Guide for Challenge 6.
+
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Screenshots have been updated as per the new UI changes and updated instructions
+
+</details>
+
+<details>
+  <summary>31 December 2024</summary>
 
 - Major Updates  
 
@@ -14,4 +37,5 @@
 
     - Updated references from **Azure OpenAI Studio** to the rebranded **Azure AI Foundry Portal** for consistency with platform updates.  
 
-    - Revised **lab guide screenshots** to incorporate the new **Azure OpenAI logo**, aligning with the latest UI changes.  
+    - Revised **lab guide screenshots** to incorporate the new **Azure OpenAI logo**, aligning with the latest UI changes. 
+</details>
