@@ -1,16 +1,25 @@
 # Release Notes
 
-### 7 May 2025
+## 7 May 2025
 
+#### Infrastructure Changes
+- NA
+#### Content Changes
+- NA
+#### Screenshot Updates
+- Screenshots are upto date.
+#### Testing Notes
 - Tested the lab end to end along with lab validations.
+#### Testing Date: 2025-05-07
 
-### 21 March 2025
+
+## 21 March 2025
 
 - Minor Updates
 
      - Tested the lab end to end along with lab validations and enhanced the lab guide.
 
-### 31 December 2024
+## 31 December 2024
 
 - Major Updates  
 
