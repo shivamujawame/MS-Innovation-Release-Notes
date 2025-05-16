@@ -1,11 +1,16 @@
 # Release Notes
 
 ### 12 May 2025
-- Issue Description: During Lab 1, Exercise 1, we encountered an issue while testing the Echo API within the API Management (APIM) service. Specifically, the GET request for the Echo API's retrieve resource operation was returning a "404 Not Found" error.
+- Infrastructure Changes:
+  NA
 
-- Resolution: Upon investigation with Microsoft support, it was identified that the endpoint associated with the Echo API has recently been migrated. However, as the migration process by Microsoft is still ongoing, the new endpoint is not yet fully reflected in the system. To address this, a new Echo API was created using the updated endpoint, which successfully returned the expected response.
+- Content Updates:
+  During Lab 1, Exercise 1, we encountered an issue while testing the Echo API within the API Management (APIM) service. Specifically, the GET request for the Echo API's retrieve resource operation was returning a "404 Not Found" error. To address this issue the lab guide for Lab 1 has been updated to include steps for creating a new Echo API using the current, valid endpoint of the Echo API.
 
-- Content Updates: Accordingly, the lab guide for Lab 1 has been updated to include steps for creating a new Echo API using the current, valid endpoint.
+- Screenshot Updates:
+  Added screenshots for the new added steps.
+
+- Testing done: 12th May 2025
 
 ### 31 December 2024
 
