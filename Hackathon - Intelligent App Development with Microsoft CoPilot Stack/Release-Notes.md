@@ -18,3 +18,14 @@
  
   - Updated all references from **Azure OpenAI Studio** to the rebranded **Azure AI Foundry Portal** for consistency with platform updates.   
   - Enhanced **lab guide instructions** and **updated screenshots** for a clearer and more intuitive user experience.  
+
+<details>
+  <summary>14 May 2025</summary>
+
+- Minor Updates
+
+  - Tested the lab from challenge 03- Task 03 and updated the lab guide with the recent changes.
+
+- **Testing Date**: 14-may-2025
+
+</details>

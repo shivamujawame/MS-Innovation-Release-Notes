@@ -1,5 +1,11 @@
 # Release Notes
 
+### 8 May 2025
+
+- Major Updates
+
+  - Implemented Single Sign-On (SSO) integration with Azure for the lab environment, enabling users to authenticate using their Azure credentials instead of external GitHub accounts. Also updated the lab guide wherever necessary to reflect the new SSO-based authentication process.
+
 ### 31 December 2024
 
 - Major Updates

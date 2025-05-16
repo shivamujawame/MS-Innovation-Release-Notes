@@ -1,5 +1,11 @@
 # Release Notes
 
+### 21 March 2025
+
+- Minor Updates
+
+     - Tested the lab end to end along with lab validations and enhanced the lab guide.
+
 ### 31 December 2024
 
 - Major Updates  
