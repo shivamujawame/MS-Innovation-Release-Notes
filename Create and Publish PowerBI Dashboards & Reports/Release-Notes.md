@@ -33,7 +33,9 @@ NA
 
 ## Content Changes
 
-- **Change**: Updated lab guide with multiple screenshots as there were UI changes in Power BI reports.
+- **Change**:
+    1. Updated lab guide with multiple screenshots as there were UI changes in Power BI reports.
+    2. Added few **Notes** for better understanding of the users
 
 ## Screenshot Updates
 
