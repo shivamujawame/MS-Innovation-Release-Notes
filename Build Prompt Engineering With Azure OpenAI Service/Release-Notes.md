@@ -32,15 +32,15 @@ In this section, we will track and list each change introduced in the latest rel
    - Minor Updates
        - Have highlighted the action items for the necessary sentences.
 
-     ## Screenshot Updates
+## Screenshot Updates
 
     - Change: Updated the screenshots as per the latest UI changes.
 
-    ## Infrastructure Changes
+## Infrastructure Changes
 
      NA
 
-    ## Testing Notes
+## Testing Notes
 
   - **Testing Date**: 2025-05-13
 
