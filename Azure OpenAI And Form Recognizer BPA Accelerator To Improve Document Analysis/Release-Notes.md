@@ -1,7 +1,5 @@
 # Release Notes
 
-# Release Notes
-
 <details>
   <summary>2025-05-16</summary>
 
