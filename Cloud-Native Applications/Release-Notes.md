@@ -40,6 +40,8 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2025-05-16
+- **Tester**: [Durga Dhatri G]
+- **Resolved Issues**: NA
 
 ---
 </details>
