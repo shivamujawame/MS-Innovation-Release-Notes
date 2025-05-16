@@ -22,10 +22,8 @@ NA
 ---
 </details>
 
-
-### 31 December 2024
-
-### Release Notes  
+<details>
+  <summary>2025-12-31</summary>
 
 - Major Updates
 
@@ -41,3 +39,5 @@ NA
     - Enhanced documentation for **Task 2: Create API Management Policy and Roles**, providing clearer steps and examples for user roles and policy creation.  
     - Updated references from **Azure OpenAI Studio** to the newly rebranded **Azure AI Foundry Portal** for consistency with the latest platform updates.  
     - Renamed **Cognitive Search** to **AI Search** across relevant sections to reflect the updated terminology.  
+
+</details>
