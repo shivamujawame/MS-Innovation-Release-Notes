@@ -2,6 +2,16 @@
 
 ## Release Notes
 
+
+### 29 April 2025
+
+- No Major Updates  
+
+- Minor Updates  
+
+    - Update **Screenshots** for the **Storage Account Service** and made minor changes to instructions in Task 4, Step 5.
+
+
 ### 31 December 2024
 
 - Major Updates  
@@ -22,10 +32,3 @@
 
 
 
-### 29 April 2025
-
-- No Major Updates  
-
-- Minor Updates  
-
-    - Update **Screenshots** for the **Storage Account Service** and made minor changes to instructions in Task 4, Step 5.
