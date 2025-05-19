@@ -11,8 +11,8 @@ NA
 
 - **Change**:
     1. Updated lab guide to reflect latest UI changes in GitHub and Visual Studio Code.
-    2. Revised code snippets to include key injection functionality.
-    3. Refined instructions for several steps to align with updated workflows and interfaces.
+    2. Revised code snippets to include inject key functionality.
+    3. Refined instructions for several steps to align with updated Github UI.
 
 ## Screenshot Updates
 
