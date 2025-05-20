@@ -1,5 +1,13 @@
 # Release Notes
 
+
+### 14 May 2025
+
+ Minor Updates 
+    
+  - Enhanced **lab guide instructions** and **updated screenshots** for a clearer and more intuitive user experience with latest UI. 
+
+-----------------------------------------------------------
 ### 31 December 2024
 
 - Major Updates 
