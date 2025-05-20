@@ -19,7 +19,7 @@ NA
 - **Change**:
     
     - **Data preparation** notebooks are updated with latest working files and cells.
-    - Replaced Bot Service using Power Virtual Agents to **Microsoft Copilot Studio**
+    - Power Virtual Agents has been rebranded to **Microsoft Copilot Studio**.
       
 ## Screenshot Updates
 
