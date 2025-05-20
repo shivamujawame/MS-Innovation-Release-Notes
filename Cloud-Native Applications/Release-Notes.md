@@ -47,6 +47,31 @@ NA
 </details>
 
 <details>
+  <summary>2025-05-13</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: Minor UI Changes and instructions updated for English and Spanish language based on customer feedback.
+
+## Screenshot Updates
+
+- **Change**: Screenshots are upto date.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-13
+- **Tester**: [Sachin M]
+- **Resolved Issues**: NA
+
+---
+</details>
+
+
+<details>
   <summary>2025-02-19</summary>
 
 ## Release Notes
