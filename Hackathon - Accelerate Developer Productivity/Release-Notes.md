@@ -11,7 +11,7 @@ NA
 
 - **Change**:
 
-   1. Challenge 2: In GitHub, **Code Security** has been upgraded to **Advanced Security**.
+   - Challenge 02: In GitHub, **Code Security** has been upgraded to **Advanced Security**.
     
 ## Screenshot Updates
 
@@ -32,8 +32,8 @@ NA
 ## Content Changes
 
 - **Change**
-    - In Challenge 1, the GitHub workflow was updated because the previous workflows were failing due to the azcopy command.
-    - Challenge 3: In the filtering logic, we replaced node-forge with nanoid to achieve better results.
+    - Challenge 01: the GitHub workflow was updated because the previous workflows were failing due to the azcopy command.
+    - Challenge 03: In the filtering logic, we replaced node-forge with nanoid to achieve better results.
     - Challenge 07 has been moved to position 04, and all challenges from the original Challenge 04 onward have been shifted up by one.
 
 ## Screenshot Updates
