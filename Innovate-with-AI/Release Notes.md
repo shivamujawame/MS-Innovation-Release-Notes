@@ -18,7 +18,6 @@ NA
 
 - **Change**:
     
-    - Minor UI Changes and instructions updated.
     - **Data preparation** notebooks are updated with latest working files and cells.
     - Replaced Bot Service using Power Virtual Agents to **Microsoft Copilot Studio**
       
