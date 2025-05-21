@@ -14,7 +14,7 @@ NA
 ## Screenshot Updates
 
 - **Changes**:
-- 
+
       * Updated Getting started Page with the Architecture Diagram.
       * **Lab 01**: Added a note to close the Query Editor preview and resolved rendering issues.
       * **Lab 02**: Included a note regarding the pop-up that appears when working with Azure Cosmos DB. Updated the SQL query to reflect the correct database name.
