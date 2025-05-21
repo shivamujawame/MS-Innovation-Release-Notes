@@ -9,7 +9,9 @@ NA
 
 ## Content Changes
 
-- **Change**: Minor UI Changes and instructions updated.
+- **Change**:
+    - Minor UI Changes and instructions updated.
+    - **Getting started page** updated with new CloudLabs UI changes.
 
 ## Screenshot Updates
 
