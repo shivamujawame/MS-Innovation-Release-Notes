@@ -12,6 +12,7 @@ NA
 - **Change**:
 
    - Challenge 02: In GitHub, **Code Security** has been upgraded to **Advanced Security**.
+   - Challenge 04: Updated the instructions for generating the response using Copilot, as it not only provides suggestions but also creates the required file.
    - Challenge 09: The MSDO sample workflow YAML file has been updated to use the latest version of the GitHub Actions workflow.
     
 ## Screenshot Updates
