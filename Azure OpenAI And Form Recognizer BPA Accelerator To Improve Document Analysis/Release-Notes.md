@@ -9,11 +9,15 @@ NA
 
 ## Content Changes
 
-- **Change**: Minor UI Changes and instructions updated.
+- **Major Changes**: 
+    - Updated instruction for navigating to the Document Intelligence Portal: Earlier, we accessed it through the Azure portal, but due to UI updates, we now navigate directly and log in to the Document Intelligence Portal.
+    - In Azure AI Foundry | Azure OpenAI Service, the UI for accessing Parameters in the Chat application has changed. Therefore, the instructions have been updated to refer to the Parameters section located in the left column of the chat session.
 
+- **Minor Changes**: Minor UI Changes and instructions updated.
+  
 ## Screenshot Updates
 
-- **Change**: Screenshots are upto date.
+- **Change**: The screenshots are up to date with the major and minor content updates mentioned above.
 
 ## Testing Notes
 
