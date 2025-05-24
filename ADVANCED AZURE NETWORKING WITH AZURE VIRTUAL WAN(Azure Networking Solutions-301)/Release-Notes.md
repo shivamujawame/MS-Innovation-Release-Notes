@@ -10,7 +10,7 @@ NA
 ## Content Changes
 
 - **Change**:
-    - Updated lab guide with multiple screenshots, as there were UI changes in Azure OpenAI.
+    - Updated lab guide with multiple screenshots.
     - **Getting started page** updated with new CloudLabs UI changes.
 
 ## Screenshot Updates
