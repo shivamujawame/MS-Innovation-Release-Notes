@@ -16,7 +16,34 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-02-28</summary>
+  <summary>2025-05-26</summary>
+
+### Release Date: 2025-05-26
+
+- **Change**: Minor UI Changes and instructions updated.
+- **Testing Date**: 2025-05-25
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+
+## Screenshot Updates
+
+- **Change**: Updated the screenshots to reflect the latest UI changes in the Azure AI Foundry portal
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated lab guide steps, RBAC assignments, and Azure policy enforcement to ensure end-to-end functionality in the updated Azure environment.
+
+---
+</details>
+
+<details>
+  <summary>2025-05-26</summary>
 
 ## Release Notes
 
