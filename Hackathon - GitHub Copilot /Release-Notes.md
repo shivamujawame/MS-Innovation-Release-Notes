@@ -22,7 +22,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 # Release Notes
 
-### 12nd May 2025
+### 12 May 2025
 
 - **Change**: The GitHub login process has been updated to use Single Sign-On (SSO).
 - **Testing Date**: 2025-05-12
