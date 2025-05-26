@@ -49,7 +49,7 @@ NA
 
 In this section, we will track and list each change introduced in the latest release:
 
-### Release Date: 2025-02-28
+### Release Date: 2025-02-27
 
 - **Change**: Minor UI Changes and instructions updated.
 - **Testing Date**: 2025-02-27
