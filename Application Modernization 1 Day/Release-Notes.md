@@ -97,9 +97,9 @@ NA
 
 ## Testing Notes
 
-- **Testing Date**: 2025-05-16
+- **Testing Date**: 2025-05-23
 - **Tester**: [Sachitha B S]
-- **Resolved Issues**: NA
+- **Resolved Issues**: Since there was UI Updates in AI foundry portal in Challenge 6, resolved the issue by deploying the neccessary resources through Azure portal.
 
 ---
 </details>
