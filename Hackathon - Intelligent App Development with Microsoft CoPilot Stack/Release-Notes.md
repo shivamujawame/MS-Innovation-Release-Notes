@@ -1,14 +1,60 @@
+# Microsoft Azure Hackathon: Intelligent App Development with Copilot Stack
+
+Welcome to the **Microsoft Azure Hackathon: Intelligent App Development with Copilot Stack** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+
+## Overview
+
+This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+
+- Testing dates
+- Descriptions of changes to lab infrastructure
+- Updates to content or documentation
+- Changes to screenshots and visuals used in the lab
+
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+
 # Release Notes
 
+<details>
+  <summary>27 May 2025</summary>
 
-### 14 May 2025
+### Release Date: 2025-05-27
 
- Minor Updates 
-    
+- **Change**: Challenge 01 has been updated to align with the latest UI changes in the Azure AI Foundry Portal, specifically in the processes for creating deployment models and OpenAI resources.
+  
+- **Testing Date**: 2025-05-26
+
+## Infrastructure Changes
+
+  - N/A
+
+## Content Changes
+
+  - Additional steps have been incorporated to align with the latest UI changes in the Azure AI Foundry Portal in Challenge-01
+
+## Screenshot Updates
+
+- **Change**: Updated screenshots to reflect the latest UI changes in the Azure AI Foundry Portal in Challenge-01.
+
+---
+</details>
+
+
+<details>
+  <summary>14 May 2025</summary>
+
+- Minor Updates
+
+  - Tested the lab from challenge 03- Task 03 and updated the lab guide with the recent changes.
   - Enhanced **lab guide instructions** and **updated screenshots** for a clearer and more intuitive user experience with latest UI. 
 
------------------------------------------------------------
-### 31 December 2024
+- **Testing Date**: 14-may-2025
+
+</details>
+
+<details>
+  <summary>31 December 2024</summary>
+
 
 - Major Updates 
 
@@ -26,14 +72,5 @@
  
   - Updated all references from **Azure OpenAI Studio** to the rebranded **Azure AI Foundry Portal** for consistency with platform updates.   
   - Enhanced **lab guide instructions** and **updated screenshots** for a clearer and more intuitive user experience.  
-
-<details>
-  <summary>14 May 2025</summary>
-
-- Minor Updates
-
-  - Tested the lab from challenge 03- Task 03 and updated the lab guide with the recent changes.
-
-- **Testing Date**: 14-may-2025
 
 </details>
