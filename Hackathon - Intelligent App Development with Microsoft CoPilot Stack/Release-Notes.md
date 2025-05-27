@@ -21,8 +21,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Release Date: 2025-05-27
 
 - **Change**: Challenge 01 has been updated to align with the latest UI changes in the Azure AI Foundry Portal, specifically in the processes for creating deployment models and OpenAI resources.
-  
-- **Testing Date**: 2025-05-26
 
 ## Infrastructure Changes
 
@@ -35,6 +33,10 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Screenshot Updates
 
 - **Change**: Updated screenshots to reflect the latest UI changes in the Azure AI Foundry Portal in Challenge-01.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-26
 
 ---
 </details>
