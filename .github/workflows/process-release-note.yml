@@ -36,7 +36,7 @@ jobs:
 
       - name: Append to Release Notes
         run: |
-          FILE_PATH="$LAB_FOLDER/Release-Notes.md"
+          FILE_PATH="./$LAB_FOLDER/Release-Notes.md"
           if [ ! -f "$FILE_PATH" ]; then
             echo "## Release Notes" > "$FILE_PATH"
           fi
