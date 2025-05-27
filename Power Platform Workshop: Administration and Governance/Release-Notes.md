@@ -63,7 +63,7 @@ Removed the lab validation from **HOL 3 Exercise 2** based on a recommendation f
 - **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest UI changes, reorganized exercises for better alignment with the overall lab flow, and added a new exercise based on updated requirements.
 
 
-**Tester**: Prapthi and Disha
+**Tester**: Prapthi and Disha (26-05-2025)
 
 ---
 </details>
