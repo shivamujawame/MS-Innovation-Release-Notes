@@ -1,4 +1,4 @@
-#Power Platform Workshop: Administration and Governance
+# Power Platform Workshop: Administration and Governance
 
 Welcome to the **Power Platform Workshop: Administration and Governance** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
