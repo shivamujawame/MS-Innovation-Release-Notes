@@ -1,5 +1,5 @@
 
-# MS-Innovation Release Notes
+# Automated Machine Learning Using AML
 
 Welcome to the MS-Innovation Release Notes repository. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
@@ -25,45 +25,37 @@ This repository contains detailed notes about the latest updates and modificatio
 
 In this section, we will track and list each change introduced in the latest release:
 
-### [Release Date: YYYY-MM-DD]
+### [Release Date: 2025-05-27]
 
-- **Change**: Description of the change made (e.g., bug fix, new feature added, performance improvement).
-- **Testing Date**: YYYY-MM-DD
-- **Notes**: Any additional information or context related to the change.
+- **Change**: Changes from Microsoft for Machine Learning using AML, Changes here involve Swapping the Template and the Lab Guide involving extensive updates to reflect the latest UI enhancements, including revising many screenshots to align with the current user experience.
+- **Testing Date**: 2025-05-27
+- 
 
 ## Infrastructure Changes
 
-List any updates or modifications made to the lab infrastructure, including server updates, environment changes, or configuration updates.
+NA
 
-### Example
 
-- **Change**: Updated server configuration for improved performance.
-- **Details**: The backend server was upgraded to a more powerful instance to handle increased traffic.
 
 ## Content Changes
 
-Document any changes made to the content, such as updates to documentation, code changes, or revisions in lab exercises.
+- **Change**: Added a few **Notes** for better user understandability.
 
-### Example
 
-- **Change**: Updated the lab exercise on machine learning models.
-- **Details**: Added new example code to illustrate the process of hyperparameter tuning.
 
 ## Screenshot Updates
 
-Keep track of any modifications to the screenshots used within the lab content, ensuring that they are up-to-date with the current lab version.
+**Change**
 
-### Example
-
-- **Change**: Updated the screenshot showing the lab environment setup.
-- **Details**: New screenshot reflects the changes in the user interface after the recent UI update.
+    - Screenshots have been updated as per new UI changes and updated instructions
+    - Getting started page has been updated as per the new UI changes in the CloudLabs
 
 ## Testing Notes
 
-- **Testing Date**: YYYY-MM-DD
-- **Tested Features**: List of features tested during the session.
-- **Issues Found**: Any bugs or issues discovered during testing.
-- **Resolved Issues**: A list of issues that were resolved since the last testing cycle.
+- **Testing Date**: 2025-05-27
+- **Tested Features**: Inline validations, latest UI changes, functionality of the lab.
+- **Issues Found**: Old content(updated with Latest Microsoft content) .
+- **Resolved Issues**: Old Content was replaced with the latest content from Microsoft and many UI enhancements too.
 
 ---
 
