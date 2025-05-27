@@ -43,8 +43,8 @@ NA
 
 **Change**
 
-    - Screenshots have been updated as per new UI changes and updated instructions
-    - Getting started page has been updated as per the new UI changes in the CloudLabs
+- Screenshots have been updated as per new UI changes and updated instructions
+- Getting started page has been updated as per the new UI changes in the CloudLabs
 
 ## Testing Notes
 
