@@ -23,25 +23,21 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 
-In this section, we will track and list each change introduced in the latest release:
+<details>
+  <summary>2025-05-27</summary>
 
-### [Release Date: 2025-05-27]
+### Release Date: 2025-05-27
 
 - **Change**: Changes from Microsoft for Machine Learning using AML, Changes here involve Swapping the Template and the Lab Guide involving extensive updates to reflect the latest UI enhancements, including revising many screenshots to align with the current user experience.
 - **Testing Date**: 2025-05-27
-
 
 ## Infrastructure Changes
 
 NA
 
-
-
 ## Content Changes
 
 - **Change**: Added a few **Notes** for better user understandability.
-
-
 
 ## Screenshot Updates
 
@@ -56,7 +52,5 @@ NA
 - **Tested Features**: Inline validations, latest UI changes, functionality of the lab.
 - **Issues Found**: Old content(updated with Latest Microsoft content) .
 - **Resolved Issues**: Old Content was replaced with the latest content from Microsoft and many UI enhancements too.
-
 ---
-
-For any further details or inquiries, feel free to reach out to the MS-Innovation development team.
+</details>
