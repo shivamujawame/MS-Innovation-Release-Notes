@@ -1,0 +1,64 @@
+name: 📄 Add Release Note
+description: Submit a new release note for a specific lab.
+title: "[Release Note]: "
+labels: ["release-note"]
+body:
+  - type: dropdown
+    id: lab
+    attributes:
+      label: Select Lab
+      description: Choose the lab this release note pertains to.
+      options:
+        - Advanced Azure Networking with Azure Virtual WAN
+        - Advanced Workflow Automation with GitHub Actions
+        - Application Modernization 1 Day
+        - Automate Document Processing by Using Azure AI & OpenAI
+        - Azure Communication Services
+        - Azure OpenAI and Form Recognizer BPA Accelerator to Improve Document Analysis
+        - Azure Red Hat OpenShift Workshop
+        - Build a Fabric Real-Time Intelligence Solution in a Day
+        - Build Creative App Using Azure AI and Prompt Flow
+        - Cloud Native Apps with Azure Kubernetes Service
+        - Data Modernization with Azure Synapse Analytics
+        - DevSecOps with GitHub Advanced Security
+        - Enabling AI-Powered Search with Azure OpenAI and Cognitive Search
+        - Enterprise-Scale Landing Zone
+        - Generative AI with Azure OpenAI
+        - GitHub Copilot Workshop
+        - Hybrid Cloud Solutions with Azure Arc
+        - Innovate with Azure AI
+        - Machine Learning Operations (MLOps) with Azure Machine Learning
+        - Microsoft Sentinel Workshop
+        - Modernize Java Apps with Azure Spring Apps
+        - Modernize Web Applications with Azure App Service
+        - Power Platform Workshop: Administration and Governance
+        - Secure DevOps with GitHub and Azure
+        - Serverless Applications with Azure Functions
+        - Transform Your Business with Azure AI
+        - Zero Trust Security with Microsoft Entra
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Specify the version number or identifier.
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a detailed description of the update.
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Author
+      description: Your name or GitHub username.
+    validations:
+      required: true
