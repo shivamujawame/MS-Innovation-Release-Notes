@@ -29,7 +29,7 @@ In this section, we will track and list each change introduced in the latest rel
 
 - **Change**: Changes from Microsoft for Machine Learning using AML, Changes here involve Swapping the Template and the Lab Guide involving extensive updates to reflect the latest UI enhancements, including revising many screenshots to align with the current user experience.
 - **Testing Date**: 2025-05-27
-- 
+
 
 ## Infrastructure Changes
 
