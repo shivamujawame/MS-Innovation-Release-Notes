@@ -16,6 +16,31 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-05-26</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+  1. Enhancements have been made to improve the user experience, including updates to the instructions reflecting the latest UI changes in Azure AI Foundry Portal and Azure OpenAI.
+  
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Images have been updated as per new UI changes.
+    2. Getting started page has been updated as per the new UI changes in the CloudLabs
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-22
+
+---
+</details>
+
+<details>
   <summary>2025-05-13</summary>
 
 ## Release Notes
