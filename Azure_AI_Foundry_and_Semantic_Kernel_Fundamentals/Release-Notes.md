@@ -37,17 +37,17 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Content Changes
 
-  - Have added new content in Exercise 1 to Set up Azure AI Foundry through the Azure portal and to create a AI Search
-  - Found UI updated in **Exercise 5 Task 1 and Exercise 6 Task 1**, updated according to the recent changes
+  - Have added new content in Exercise 1 to Set up Azure AI Foundry through the Azure portal and to create a AI Search.
+  - Found UI updated in **Exercise 5 Task 1 and Exercise 6 Task 1**, updated according to the recent changes.
   
 
 ## Screenshot Updates
 
-- **Change**: Found multiple UI updates in Azue AI Foundry, have updated all the screenshots
+- **Change**: Found multiple UI updates in Azue AI Foundry, have updated all the screenshots.
 
 ## Validation
 
-Removed the validation that was related to previous content in Exercise 1 and have added new validation that supports the present content
+Removed the validation that was related to previous content in Exercise 1 and have added new validation that supports the present content.
 
 ## Testing Notes
 
