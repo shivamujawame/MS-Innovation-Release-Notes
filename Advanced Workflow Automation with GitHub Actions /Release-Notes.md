@@ -29,3 +29,32 @@ NA
 
 ---
 </details>
+
+<details>
+   <summary>2025-05-27</summary>
+
+### Lab 06 resolved.   
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+### Lab 06
+   - Added new steps in Task 1 for forking `https://github.com/Cloudlabs-Enterprises/github-action` repo, by selecting devops-org-xxx as owner.
+   - Initially, we have encountered an issue while trying to install Azure Boards for free, as the Install for free option was not visible. However, after forking the above referenced repository and setting the owner as devops-org-xxx, the option became available.
+  - It was the major now it is resolved.
+
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Screenshots have been updated as per new UI changes and updated instructions.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-27
+
+---
+</details>
