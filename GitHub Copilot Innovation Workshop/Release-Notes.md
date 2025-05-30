@@ -35,3 +35,24 @@
 - Minor Updates  
 
   - Updated the location of the **GitHub Copilot icon** to enable **Chat functionality** in the lab guide, aligning with new UI changes.  
+
+<details>
+  <summary>23rd May 2025</summary>
+
+## Infrastructure Changes
+
+- NA
+
+
+## Content Changes
+
+  - NA
+
+## Screenshot Updates
+
+- NA
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-23
+
