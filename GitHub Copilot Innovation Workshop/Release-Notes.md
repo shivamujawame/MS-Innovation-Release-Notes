@@ -1,12 +1,53 @@
-# Release Notes
+# GitHub Copilot Innovation Workshop
 
-### 8 May 2025
+Welcome to GitHub Copilot Innovation Workshop. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+
+## Overview
+
+This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+
+- Testing dates
+- Descriptions of changes to lab infrastructure
+- Updates to content or documentation
+- Changes to screenshots and visuals used in the lab
+
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+
+<details>
+  <summary>23rd May 2025</summary>
+
+## Infrastructure Changes
+
+- NA
+
+
+## Content Changes
+
+  - NA
+
+## Screenshot Updates
+
+- NA
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-23
+
+---
+</details>
+
+<details>
+  <summary>8th May 2025</summary>
 
 - Major Updates
 
   - Implemented Single Sign-On (SSO) integration with Azure for the lab environment, enabling users to authenticate using their Azure credentials instead of external GitHub accounts. Also updated the lab guide wherever necessary to reflect the new SSO-based authentication process.
 
-### 31 December 2024
+---
+</details>
+
+<details>
+  <summary>31st December 2024</summary>
 
 - Major Updates
 
@@ -35,3 +76,7 @@
 - Minor Updates  
 
   - Updated the location of the **GitHub Copilot icon** to enable **Chat functionality** in the lab guide, aligning with new UI changes.  
+
+---
+</details>
+
