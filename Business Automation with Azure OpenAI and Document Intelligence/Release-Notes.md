@@ -1,6 +1,6 @@
-# Azure OpenAI And Form Recognizer BPA Accelerator To Improve Document Analysis
+# Business Automation with Azure OpenAI and Document Intelligence
 
-Welcome to the **Azure OpenAI And Form Recognizer BPA Accelerator To Improve Document Analysis** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Business Automation with Azure OpenAI and Document Intelligence** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
