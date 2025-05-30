@@ -27,7 +27,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Screenshot Updates
 
-- NA
+- Everything is aligned with recent UI changes. No changes needed
 
 ## Testing Notes
 
