@@ -16,7 +16,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
-  <summary>2025-05-02</summary>
+  <summary>2025-05-30</summary>
 
 ## Infrastructure Changes
 
@@ -28,7 +28,7 @@ There have been no infrastructure modifications or changes applied to the lab en
 
 ## Testing Notes
 
-- **Testing Date**: 2025-05-02
+- **Testing Date**: 2025-05-30
 - **Issues Found**: The latest testing phase was completed smoothly, with all systems operating as expected and no errors or issues encountered throughout the process.
 - **Resolved Issues**: NA
 
