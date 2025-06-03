@@ -16,6 +16,33 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-06-03</summary>
+
+### Release Date: 2025-06-03
+
+- **Change**: Minor UI Changes and instructions updated.
+- **Testing Date**: 2025-06-03
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: Minor UI Changes and instructions updated.
+
+## Screenshot Updates
+
+- **Change**: On the Getting Started page, I have updated a screenshot related to the Lab Guide's Zoom In/Zoom Out feature.
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated lab guide steps, RBAC assignments, and Azure policy enforcement to ensure end-to-end functionality in the updated Azure environment.
+
+---
+</details>
+
+<details>
   <summary>2025-05-25</summary>
 
 ### Release Date: 2025-05-25
