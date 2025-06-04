@@ -1,6 +1,6 @@
-# New Onboarding of GitHub & Agentic-AI
+# GitHub & Agentic-AI
 
-Welcome to the **GitHub & Agentic-AI** Release Notes repository. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the GitHub & Agentic-AI Release Notes repository. This is the new onboarding . In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -53,6 +53,7 @@ There have been no infrastructure modifications or changes applied to the lab en
 
 - **Testing Date**: 2025-06-04
 - **Issues Found**: The latest testing phase was completed smoothly, with all systems operating as expected and no errors or issues encountered throughout the process.
+- **Updates**: All feedback has been incorporated, and The lab environment content has been updated to reflect the latest UI changes
 - **Resolved Issues**: NA
 
 ---
