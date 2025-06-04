@@ -21,11 +21,6 @@ In this section, we will track and list each change introduced in the latest rel
 
 **This is a newly onboarded lab.**
 
-[Release Date: YYYY-MM-DD]
-Change: Description of the change made (e.g., bug fix, new feature added, performance improvement).
-Testing Date: YYYY-MM-DD
-Notes: Any additional information or context related to the change.
-
 <details>
   
   <summary>04 June 2025</summary>
