@@ -1,26 +1,39 @@
+# Use Azure Open AI like a Pro to build powerful AI Applications
+
+Welcome to the **Use Azure Open AI like a Pro to build powerful AI Applications** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+
+## Overview
+
+This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+
+- Testing dates
+- Descriptions of changes to lab infrastructure
+- Updates to content or documentation
+- Changes to screenshots and visuals used in the lab
+
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+
 # Release Notes
 
-### 31 December 2024 
-
-- Major Updates
-
-    - **Script Optimization**  
-        - Updated scripts by **removing unused resources**, improving efficiency and maintainability.
-
-- Minor Updates
-    
-    - **Azure AI Foundry Portal**  
-        - Updated all references from **Azure OpenAI Studio** to the rebranded **Azure AI Foundry Portal**, aligning with the latest platform changes.  
-
-These updates enhance usability, align with platform updates, and streamline resource management.
-
 <details>
-  <summary>10 April 2025</summary>
+  <summary>2025-04-10</summary>
 
-- Minor Updates
+## Infrastructure Changes
 
-  - Updated the labguide with recent updates.
+NA
 
-- **Testing Date**: 10-april-2025
+## Content Changes
 
+- **Minor Changes**: Minor UI Changes and instructions updated.
+  
+## Screenshot Updates
+
+- **Change**: The screenshots are up to date with the major and minor content updates mentioned above.
+
+## Testing Notes
+
+- **Testing Date**: 2025-04-10
+- **Resolved Issues**: NA
+---
 </details>
+
