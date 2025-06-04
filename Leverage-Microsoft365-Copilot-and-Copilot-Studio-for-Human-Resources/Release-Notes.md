@@ -4,6 +4,8 @@
 <details>
   <summary>04 June 2025</summary>
 
+Newly onboarded lab
+
 ## Infrastructure Changes
 
 NA
