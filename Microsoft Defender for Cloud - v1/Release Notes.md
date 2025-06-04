@@ -1,7 +1,7 @@
 
 # Microsoft Defender for Cloud - V1
 
-Welcome to the **Microsoft Defender for Cloud - V1** Readme.md . On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Microsoft Defender for Cloud - V1** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -45,7 +45,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 - **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest UI changes, and reorganized exercises for better alignment with the overall lab flow.
 
-**Tester**: SHIVA KUMAR M V (Intern)
+ - **Tester**: SHIVA KUMAR M V (Intern)
 
 ---
 </details>
