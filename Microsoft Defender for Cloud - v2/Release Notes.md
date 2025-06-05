@@ -53,7 +53,5 @@ We have Added Validation for **modules 6 and 7**.
 
 - **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest UI changes, reorganized exercises for better alignment with the overall lab flow, and added new tasks for lab 6 based on the customer's Request.
 
-**Tester**: Prapthi and Disha
-
 ---
 </details>
