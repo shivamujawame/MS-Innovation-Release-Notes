@@ -41,7 +41,5 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 - **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest UI changes, and reorganized exercises for better alignment with the overall lab flow.
 
-- **Tester**: Aparna
-
 ---
 </details>
