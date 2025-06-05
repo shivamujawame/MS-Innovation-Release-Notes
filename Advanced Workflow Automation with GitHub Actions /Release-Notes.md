@@ -1,4 +1,4 @@
-# Advanced Workflow Automation with GitHub Actions
+# Advanced Workflow Automation with GitHub Actions V2 Content:
 
 Welcome to the **Advanced Workflow Automation with GitHub Actions** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
@@ -72,7 +72,67 @@ NA
 - **Tester**: [Sachin M]
 - **Resolved Issues**: Lab06 issue is still not resolved.
 
+## Testing Notes
 
+- **Testing Date**: 2025-04-19
+
+---
+</details>
+
+<details>
+   <summary>2025-05-21</summary>
+
+## Infrastructure Changes
+
+1. Added Github SSO and updated the custom script 
+
+## Content Changes
+
+## General Updates
+- Included Multi-Factor Authentication (MFA) steps with updated screenshots in the **"Getting Started"** page.
+- Updated all workflow names across relevant labs for consistency.
+- Validation steps updated to require **organization name** and **Personal Access Token (PAT)** due to integration with **GitHub SSO**.
+- Assigned names to all workflows, made necessary modifications to the workflow and YAML files, and updated the corresponding screenshots accordingly.
+- 
+## Lab 1: Introduction to GitHub Actions
+- Updated lab content with revised instructions and screenshots.
+- Modified the `jobs.yml` file to align with content changes.
+- 
+## Lab 2: Building and Pushing Docker Images with GitHub Actions
+- Created a new `docker.yml` file to configure a GitHub Actions workflow for building and pushing Docker images to **Azure Container Registry (ACR)**.
+- Integrated steps to log in to ACR and push the Docker image.
+- Validated successful deployment by browsing image content via **container instance Public IP**
+## Lab 3: Security with GitHub Advanced Security
+- Combined **Task 2 and Task 3** for better clarity and workflow.
+- Removed **Dependabot scanning and alert enabling** steps.
+- Updated **Task 3** steps to import the repository manually due to private organization settings (forking not allowed).
+- Modified `package.json` file with necessary updates.
+- Updated `nodejs_ci.yml` to include relevant `npm` packages.
+- Revised `codeql-analysis.yml` and added **AI-based code scanning fix steps**.
+## Lab 4 & Lab 5: OIDC and GitHub Deployment Best Practices
+- Swapped the content between **Lab 4 and Lab 5**:
+  - **OIDC Integration** moved to **Lab 5**
+  - **Deployment Best Practices** content now in **Lab 4**
+- Reordering aligned with current best practices for better learning flow.
+- Updated workflow names accordingly.
+## Lab 6: Final Integration and Validation
+- Resolved all issues in Lab 6.
+- Updated the screenshots and tested a new approach by forking the repository under a new organization and integrating it with Azure DevOps
+
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Screenshots have been updated as per new UI changes and updated instructions.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-16
+- **Tester**: [Reema]
+- **Resolved Issues**:
+- Investigate the trigger issues in hello.yml. and fixed it
+- The integration issue with Azure DevOps in Lab 6 has been resolved.
+- 
 ---
 </details>
 
