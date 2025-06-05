@@ -20,6 +20,31 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Infrastructure Changes
 
+  N/A
+
+## Content Changes
+
+  1. Enhancements have been made to improve the user experience, including updates to the instructions reflecting the latest UI changes in Azure AI Foundry Portal and Azure OpenAI.
+  2. Lab-02 Tasks 4, 5, and 6 have been updated to transition the application deployment from CloudShell to PowerShell Desktop and Visual Studio Code and updated the necessary files and packages in the Custom Script Extension
+
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Images have been updated as per new UI changes and the changes in the task 4,5 and 6.
+
+## Testing Notes
+
+- **Testing Date**: 2025-06-04
+
+---
+</details>
+
+<details>
+  <summary>2025-05-26</summary>
+
+## Infrastructure Changes
+
 NA
 
 ## Content Changes
