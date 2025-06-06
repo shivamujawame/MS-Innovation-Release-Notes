@@ -57,3 +57,35 @@ NA
 - **Testing Date**: 2025-05-02
 
 </details>
+
+<details>
+  <summary>2025-06-06</summary>
+
+### Release Date: 2025-06-06
+  
+- **Testing Date**: 2025-06-06
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**:
+    - There were a few UI updates related to Azure OpenAI and minor grammatical errors, which I have corrected.
+    - **Getting started page** NA
+
+## Screenshot Updates
+
+- **Change**: Screenshots are up-to-date.
+
+## Validation
+
+  NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest UI changes, and reorganized exercises for better alignment with the overall lab flow.
+
+---
+</details>
