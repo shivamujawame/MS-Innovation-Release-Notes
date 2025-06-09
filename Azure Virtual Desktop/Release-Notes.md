@@ -1,4 +1,4 @@
-# Power Platform Workshop: Administration and Governance
+# Azure Virtual Desktop
 
 Welcome to the **Azure Virtual Desktop** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
