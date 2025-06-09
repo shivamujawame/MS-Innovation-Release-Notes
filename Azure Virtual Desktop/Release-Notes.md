@@ -34,6 +34,13 @@ NA
   
 ## Screenshot Updates
 
-- **Change**: 
+- The Getting Started page has been updated to reflect the Microsoft Innovation format. As part of this update, an architecture diagram has been included along with a detailed explanation of each component in the diagram.
+- Additional notes related to pop-ups have been included in the lab guide to guide users during setup steps, enhancing usability during lab execution.
+- In Lab 8 and Lab 9, users are instructed to create custom roles with specific names. To handle scenarios where the role might already exist, a note has been added advising users to skip the task if the role is already present.
+- In Lab 11, the task involving Conditional Access Policy creation has been refined. A note has been added to skip this step if the policy already exists, and instructions related to enabling MFA have been updated.
 
+## Testing Notes
+
+- **Testing Date**: 2025-05-14
+  
 </details>
