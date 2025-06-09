@@ -18,8 +18,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2025-05-14</summary>
 
-### Release Date: 2025-05-26
-
 ## Infrastructure Changes
 
 NA
