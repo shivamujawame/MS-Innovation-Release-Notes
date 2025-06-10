@@ -62,9 +62,6 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
     - **Model Deprecation**  
         - The **gpt-35-turbo version 0134** will be deprecated. New default models will be assigned based on region availability after **January 12, 2025**. 
 
----
-</details> 
-
 
 - Minor Updates
 
@@ -72,3 +69,6 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
     - **PowerShell Python Scripts**: Upgraded the **OpenAI package** from version **1.0.0** to **1.56.2**.  
     - **.NET SDK**: Updated from version **7** to **8**, ensuring access to the latest features.
     - Updated the **Azure Cloud Shell UI**, providing an improved and modern user experience.
+
+---
+</details>
