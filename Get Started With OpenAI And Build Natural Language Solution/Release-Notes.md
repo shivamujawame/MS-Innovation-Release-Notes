@@ -2,6 +2,36 @@
 
 ## Release Notes
 
+<details>
+  <summary>09 June 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+  
+## Screenshot Updates
+
+- **Change**: 
+
+ - Minor Updates
+   
+    1. Screenshots have been updated as per new UI changes and added the numberings in few images.
+    2. Getting started page has been updated as per the new UI changes.
+    3. Added a few continuity images and included notes where necessary
+
+## Testing Notes
+
+- **Testing Date**: 2025-06-09
+- **Issues Found**: We
+- **Resolved Issues**
+
+---
+</details>
+
 ### 2nd May 2025
 
 - **Change**: Updated the lab guide for UI changes and code to resolve the issue while installing python library/package in Lab 2 task 3 step 5.
@@ -18,9 +48,6 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 ## Testing Notes
 
 - **Testing Date**: 2025-05-02
-- **Tester**: [Prajwal Kumar]
-- **Issues Found**: The most recent testing phase was completed. Faced an issue in code while installing python library/package in Lab 2 task 3 step 5.
-- **Resolved Issues**: Yes, updated the commands in the guide.
 
 ### 31 December 2024
 
