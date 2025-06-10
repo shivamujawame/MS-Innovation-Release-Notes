@@ -54,7 +54,7 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 </details>
 
 <details>
-  <summary>31 december 2022</summary>
+  <summary>31 december 2024</summary>
 
 
 - Major Updates 
