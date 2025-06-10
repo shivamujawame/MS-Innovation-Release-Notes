@@ -37,6 +37,10 @@ NA
     -  Screenshots have been updated to accurately reflect the correct navigation flow for creating an Azure AI service via AI Foundry.
     -  while creating a new console application in the C#/.NET environment, instructions have been updated to use the required URL as the document-translation-endpoint.
 - **Challenge 6**:  In the Log Analytics Workspace, instructions have been added to switch to the KQL mode for querying logs effectively.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-30
   
 </details>
 
