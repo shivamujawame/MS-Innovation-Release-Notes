@@ -31,7 +31,7 @@ This repository contains detailed notes about the latest updates and modificatio
 **Details:**
 - The dev test environment was getting failed to get created in power apps portal.
 - pac and npm packages were getting failed to install. 
-- To make deployment and the logon script to get succeeded, the environment need be assigned with **Powerapps Premium** and **Microsoft 365 E3(no teams)** lincese before the deployment. 
+- To make deployment and the logon script to get succeeded, the environment was assigned with **Powerapps Premium** and **Microsoft 365 E3(no teams)** license before the deployment. 
 
 ## Content Changes
  
@@ -48,7 +48,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 - **Testing Date**: 2025-06-04
 - **Tested Features**: Inline validations, latest UI changes, functionality of the lab.
-- **Issues Found**: Dev test environment was not showing up in powerapps portal, pac and npm pacakges are not installed
-- **Resolved Issues**: Updated logon script to fix the issues mentioned and need to assign **Powerapps Premium** and **Microsoft 365 E3(no teams)** lincese before the logon script starts.
+- **Issues Found**: Dev test environment was not showing up in powerapps portal, pac and npm pacakges are not installed.
+- **Resolved Issues**: Updated logon script to fix the issues mentioned and need to assign **Powerapps Premium** and **Microsoft 365 E3(no teams)** license before the logon script starts.
 ---
 </details>
