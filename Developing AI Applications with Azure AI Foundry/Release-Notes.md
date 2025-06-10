@@ -73,7 +73,6 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2025-05-24
-- **Resolved Issues**: NA
 - **Issues Found**: NA
 - **Resolved Issues**: NA
 
