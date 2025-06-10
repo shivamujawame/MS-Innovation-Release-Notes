@@ -37,8 +37,8 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2025-06-09
-- **Issues Found**: We
-- **Resolved Issues**
+- **Issues Found**: NA
+- **Resolved Issues**: NA
 
 ---
 </details>
