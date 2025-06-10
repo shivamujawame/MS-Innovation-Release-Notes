@@ -27,7 +27,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Infrastructure Changes
 
 - Changed the **gpt-4o** model version in **Lab 1: Task 2** as the existing was depreciated.
-- Also accomodated the major changes in Azure AI Foundry.
 
 ## Content Changes
 
@@ -35,6 +34,7 @@ This Page contains detailed notes about the latest updates and modifications mad
     - Accomodated the latest change with respect to Azure AI Foundry.
     - There were a few UI updates related to Azure OpenAI which were updated.
     - **Getting started page** was updated as per the latest UI changes.
+    - Updated the Lab 2: Task 2 as per the latest UI changes in Azure AI Foundry
 
 ## Screenshot Updates
 
