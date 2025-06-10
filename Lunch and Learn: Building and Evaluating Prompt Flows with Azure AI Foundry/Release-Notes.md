@@ -1,5 +1,5 @@
 
-# Lunch and Learn: Build Custom Copilot Application using Azure AI Foundry
+# Lunch and Learn: Building and Evaluating Prompt Flows with Azure AI Foundry
 
 Welcome to the **Lunch and Learn: Building and Evaluating Prompt Flows with Azure AI Foundry** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
