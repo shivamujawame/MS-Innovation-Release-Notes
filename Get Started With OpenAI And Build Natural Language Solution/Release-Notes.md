@@ -1,5 +1,16 @@
 # Get Started With OpenAI And Build Natural Language Solution 
 
+Welcome to the  **Get Started With OpenAI And Build Natural Language Solution** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+
+## Overview
+
+This repository contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+
+- Testing dates
+- Descriptions of changes to lab infrastructure
+- Updates to content or documentation
+- Changes to screenshots and visuals used in the lab
+
 ## Release Notes
 
 <details>
@@ -32,7 +43,8 @@ NA
 ---
 </details>
 
-### 2nd May 2025
+<details>
+  <summary>02 may 2025</summary>
 
 - **Change**: Updated the lab guide for UI changes and code to resolve the issue while installing python library/package in Lab 2 task 3 step 5.
 - **Testing Date**: 2025-05-02
@@ -49,12 +61,17 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 
 - **Testing Date**: 2025-05-02
 
-### 31 December 2024
+---
+</details>
+
+<details>
+  <summary>31 december 2024</summary>
+
 
 - Major Updates 
 
     - **Model Deprecation**  
-        - The **gpt-35-turbo version 0134** will be deprecated. New default models will be assigned based on region availability after **January 12, 2025**.  
+        - The **gpt-35-turbo version 0134** will be deprecated. New default models will be assigned based on region availability after **January 12, 2025**. 
 
 
 - Minor Updates
@@ -63,3 +80,6 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
     - **PowerShell Python Scripts**: Upgraded the **OpenAI package** from version **1.0.0** to **1.56.2**.  
     - **.NET SDK**: Updated from version **7** to **8**, ensuring access to the latest features.
     - Updated the **Azure Cloud Shell UI**, providing an improved and modern user experience.
+
+---
+</details>
