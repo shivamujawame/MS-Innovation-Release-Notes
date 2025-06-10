@@ -16,6 +16,33 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>9 May 2025</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: 
+
+    1. Omitted Init.py file creation in Exercise 1 task 3
+    2. Exercise 2 steps have been updated as per new UI changes in Azure AI Foundry portal where the WebApp is being deployed.
+
+
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Screenshots have been updated as per new UI changes and updated instructions
+
+## Testing Notes
+
+- **Testing Date**: 2025-06-06
+
+</details>
+
+<details>
   <summary>28 April 2025</summary>
 
 ## Infrastructure Changes
@@ -37,7 +64,6 @@ NA
 
 - **Testing Date**: 2025-04-28
 
----
 </details>
 
 
