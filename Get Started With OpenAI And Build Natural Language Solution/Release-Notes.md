@@ -37,14 +37,14 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2025-06-09
-- **Issues Found**: We
-- **Resolved Issues**
+- **Issues Found**: NA
+- **Resolved Issues**: NA
 
 ---
 </details>
 
 <details>
-  <summary>02 may 2025</summary>
+  <summary>02 May 2025</summary>
 
 - **Change**: Updated the lab guide for UI changes and code to resolve the issue while installing python library/package in Lab 2 task 3 step 5.
 - **Testing Date**: 2025-05-02
@@ -65,7 +65,7 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 </details>
 
 <details>
-  <summary>31 december 2024</summary>
+  <summary>31 December 2024</summary>
 
 
 - Major Updates 
