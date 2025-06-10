@@ -1,5 +1,7 @@
 # Get Started With OpenAI And Build Natural Language Solution 
 
+Welcome to the  **Get Started With OpenAI And Build Natural Language Solution** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+
 ## Release Notes
 
 <details>
