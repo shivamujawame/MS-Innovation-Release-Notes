@@ -32,7 +32,8 @@ NA
 ---
 </details>
 
-### 2nd May 2025
+<details>
+  <summary>02 may 2025</summary>
 
 - **Change**: Updated the lab guide for UI changes and code to resolve the issue while installing python library/package in Lab 2 task 3 step 5.
 - **Testing Date**: 2025-05-02
@@ -49,12 +50,20 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 
 - **Testing Date**: 2025-05-02
 
-### 31 December 2024
+---
+</details>
+
+<details>
+  <summary>31 december 2023</summary>
+
 
 - Major Updates 
 
     - **Model Deprecation**  
-        - The **gpt-35-turbo version 0134** will be deprecated. New default models will be assigned based on region availability after **January 12, 2025**.  
+        - The **gpt-35-turbo version 0134** will be deprecated. New default models will be assigned based on region availability after **January 12, 2025**. 
+
+---
+</details> 
 
 
 - Minor Updates
