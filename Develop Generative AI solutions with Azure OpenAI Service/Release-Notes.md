@@ -1,10 +1,10 @@
 # Develop Generative AI solutions with Azure OpenAI Service
 
-Welcome to the MS-Innovation Release Notes repository. In this repo, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Develop Generative AI solutions with Azure OpenAI Service** Release-Notes.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
-This repository contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
 
 - Testing dates
 - Descriptions of changes to lab infrastructure
