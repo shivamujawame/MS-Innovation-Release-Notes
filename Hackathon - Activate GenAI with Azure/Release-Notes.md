@@ -1,4 +1,4 @@
-# Getting started with Azure OpenAI services
+# Hackathon - Activate GenAI with Azure
 
 Welcome to the **Hackathon - Activate GenAI with Azure** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
@@ -24,17 +24,21 @@ NA
 
 ## Content Changes
 
-- **Change**
+NA
   
-## Screenshot Updates
+## Screenshot Updates 
 
-- **Change**: 
-
-    
-
+[Solution Guide]
+- **Challenge 1**: Updated screenshots to reflect the new UI in the Azure portal while creating the Azure OpenAI service. Included updated visuals and steps for deploying the gpt-35-turbo and text-embedding-ada-002 models to align with the latest AI Foundry portal experience.
+-  **Challenge 2**:
+    - The cloned repository in the lab environment previously did not match the folder and file structure shown in Visual Studio Code screenshots. Hence All screenshots have been replaced to accurately reflect the structure of the mslearn-knowledge-mining repository.
+    - Instructions revised to navigate to the Azure AI services (multi-service account) within the AI Foundry, guiding users to fetch the required service.
+-  **Challenge 5**:
+    -  Screenshots have been updated to accurately reflect the correct navigation flow for creating an Azure AI service via AI Foundry.
+    -  while creating a new console application in the C#/.NET environment, instructions have been updated to use the required URL as the document-translation-endpoint.
+- **Challenge 6**:  In the Log Analytics Workspace, instructions have been added to switch to the KQL mode for querying logs effectively.
+  
 </details>
-
-
 
 <details>
   <summary>09 May 2025</summary>
