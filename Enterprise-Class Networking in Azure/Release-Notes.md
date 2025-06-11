@@ -18,21 +18,18 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 <details>
   <summary>2025-06-11</summary>
 
-### Release Date: 2025-06-10
+### Release Date: 2025-06-11
   
-- **Testing Date**: 2025-06-10
+- **Testing Date**: 2025-06-11
 
 ## Infrastructure Changes
 
-- Changed the **gpt-4o** model version in **Lab 1: Task 2** as the existing was depreciated.
+- 
 
 ## Content Changes
 
 - **Change**:
-    - Accomodated the latest change with respect to Azure AI Foundry.
-    - There were a few UI updates related to Azure OpenAI which were updated.
-    - **Getting started page** was updated as per the latest UI changes.
-    - Updated the Lab 2: Task 2 as per the latest UI changes in Azure AI Foundry
+
 
 ## Screenshot Updates
 
