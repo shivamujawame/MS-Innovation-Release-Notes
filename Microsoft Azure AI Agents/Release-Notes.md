@@ -16,6 +16,29 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-06-11</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+As some of the resources such as **AI Hub, AI Project, Azure OpenAI, model deployments, and Managed Identity** have been automated as part of the lab along with their naming conventions, the lab guide has been updated by removing the steps where these resources were previously created manually and adding instructions to reflect these changes.
+  
+## Screenshot Updates
+
+The screenshots have been updated to reflect the latest content, match the updated resource naming conventions, and ensure easier navigation.
+
+## Testing Notes
+
+The lab has been tested with all the updated screenshots and content changes, and no issues were found.
+
+- **Testing Date**: 2025-06-10
+
+</details>
+
+<details>
   <summary>2025-05-30</summary>
 
 ## Infrastructure Changes
@@ -40,3 +63,5 @@ NA
     1. Tested the lab and encountered some issues with the script execution. To resolve this, I installed the required packages and successfully established a connection to Azure AI Search, which addressed the problems and allowed the lab to proceed as expected.
 
 - **Testing Date**: 2025-05-30
+
+</details>
