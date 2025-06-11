@@ -13,12 +13,12 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
-# Release Notes
+## Release Notes
 
 <details>
    <summary>2025-05-27</summary>
 
-### Lab 06 issue resolved.   
+### Release Date: 2025-05-27
 
 ## Infrastructure Changes
 
@@ -42,12 +42,15 @@ Removed the lab validation from Lab 06, it was no longer supported.
 ## Testing Notes
 
 - **Testing Date**: 2025-05-27
-
+- **Issues Found**: Issue in Lab06 while trying to install Azure Boards for free
+- **Resolved Issues**: Lab 06 issue resolved.
 ---
 </details>
 
 <details>
    <summary>2025-05-21</summary>
+
+### Release Date: 2025-05-21
 
 ## Infrastructure Changes
 
@@ -58,7 +61,7 @@ NA
 - **Change**:
     1. Updated lab guide with proper instructions.
     2. Tested the lab till Lab 5 as the issue in Lab 6 still exists.
-    3. Validations steps are updated(organization name and PAT token needed) as the lab got updated with gitbub SSO credentials and all of them are getting validated.
+    3. Validations steps are updated(organization name and PAT token needed) as the lab got updated with github SSO credentials and all of them are getting validated.
 
 ## Screenshot Updates
 
@@ -69,31 +72,28 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2025-05-21
-- **Tester**: [Sachin M]
+- **Issues Found**: Issue in Lab06 while trying to install Azure Boards for free
 - **Resolved Issues**: Lab06 issue is still not resolved.
-
-## Testing Notes
-
-- **Testing Date**: 2025-04-19
 
 ---
 </details>
 
+
 <details>
    <summary>2025-05-16</summary>
+
+### Release Date: 2025-05-16
 
 ## Infrastructure Changes
 
 1. Added Github SSO and updated the custom script 
-
-## Content Changes
 
 ## General Updates
 - Included Multi-Factor Authentication (MFA) steps with updated screenshots in the **"Getting Started"** page.
 - Updated all workflow names across relevant labs for consistency.
 - Validation steps updated to require **organization name** and **Personal Access Token (PAT)** due to integration with **GitHub SSO**.
 - Assigned names to all workflows, made necessary modifications to the workflow and YAML files, and updated the corresponding screenshots accordingly.
-- 
+
 ## Lab 1: Introduction to GitHub Actions
 - Updated lab content with revised instructions and screenshots.
 - Modified the `jobs.yml` file to align with content changes.
@@ -119,6 +119,8 @@ NA
 - Resolved all issues in Lab 6.
 - Updated the screenshots and tested a new approach by forking the repository under a new organization and integrating it with Azure DevOps
 
+## Content Changes
+
 ## Screenshot Updates
 
 - **Change**: 
@@ -128,7 +130,6 @@ NA
 ## Testing Notes
 
 - **Testing Date**: 2025-05-16
-- **Tester**: [Reema]
 - **Resolved Issues**:
 - Investigate the trigger issues in hello.yml. and fixed it
 - The integration issue with Azure DevOps in Lab 6 has been resolved.

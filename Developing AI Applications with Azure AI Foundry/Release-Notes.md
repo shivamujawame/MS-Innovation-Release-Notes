@@ -16,49 +16,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-   <summary>2025-05-24</summary>
-
-## Infrastructure Changes
-
-NA
-
-## Content Changes
-
-- **Change**:
-    1. Updated lab guide with proper instructions.
-
-## Screenshot Updates
-
-- **Change**: 
-
-    1. Screenshots have been updated as per new UI changes and updated instructions.
-    2. Openai and AI foundry new UI updates are accommodated in lab guide.
-
-## Testing Notes
-
-- **Testing Date**: 2025-05-24
-- **Tester**: [Sachin M]
-- **Resolved Issues**: NA
-
-
----
-</details>
-
-<details>
-  <summary>2025-05-02</summary>
-
-- Minor Updates
-
-  - Tested the lab and updated the lab guide with the latest UI changes.
-  - Updated the file path in the VM.
-      - Previous location: C:\LabFiles\Developing-AI-Applications-with-Azure-AI-Studio\Labs\data
-      - New location: C:\LabFiles\Model-Evaluation-and-Model-Tunning\Labs\data
-
-- **Testing Date**: 2025-05-02
-
-</details>
-
-<details>
   <summary>2025-06-06</summary>
 
 ### Release Date: 2025-06-06
@@ -88,4 +45,68 @@ NA
 - **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest UI changes, and reorganized exercises for better alignment with the overall lab flow.
 
 ---
+</details>
+
+<details>
+   <summary>2025-05-24</summary>
+
+### Release Date: 2025-05-24
+
+- **Testing Date**: 2025-05-24
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**:
+    1. Updated lab guide with proper instructions.
+
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Screenshots have been updated as per new UI changes and updated instructions.
+    2. New UI updates of Openai and AI foundry are accommodated in lab guide.
+
+## Testing Notes
+
+- **Testing Date**: 2025-05-24
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+
+---
+</details>
+
+<details>
+  <summary>2025-05-02</summary>
+
+### Release Date: 2025-05-02
+
+- **Testing Date**: 2025-05-02
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- Minor Updates
+
+  - Tested the lab and updated the lab guide with the latest UI changes.
+  - Updated the file path in the VM.
+      - Previous location: C:\LabFiles\Developing-AI-Applications-with-Azure-AI-Studio\Labs\data
+      - New location: C:\LabFiles\Model-Evaluation-and-Model-Tunning\Labs\data
+
+## Screenshot Updates
+
+- updated the lab guide with the latest UI changes.
+
+## Testing Notes
+- **Testing Date**: 2025-05-02
+- **Resolved Issues**: NA
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+
 </details>
