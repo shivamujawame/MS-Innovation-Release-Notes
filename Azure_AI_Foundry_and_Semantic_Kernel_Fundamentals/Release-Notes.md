@@ -14,6 +14,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2025-06-10</summary>
+
+### Release Date: 2025-05-28
+
+- **Change**: Tested the lab till Exercie 4, to fix the issue related to weather plugin in **Exercise 3 Task 4** . Updated the weather plugin, C# code in Exercise 3 Task 4. 
+
+  
+- **Testing Date**: 2025-05-10
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+Updated the C# weather plugin code in Exercise 3 Task 4.
+  
+
+## Screenshot Updates
+
+NA
+
+## Validation
+
+NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, included the latest approach to perform tasks, updated the content to reflect the latest UI changes.
+
+
+---
+</details>
+
+
+
+
+
+
 
 <details>
   <summary>2025-05-28</summary>
