@@ -1,6 +1,8 @@
-# AI Developer -  Azure AI Foundry and Semantic Kernel Fundamentals
+# Azure Virtual Machine and Compute 
 
-Welcome to the **AI Developer -  Azure AI Foundry and Semantic Kernel Fundamentals** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Microsoft Azure is one of the leading enterprise cloud platforms. Azure launched in 2010 and has quickly matured as many new services are continually being added. One of the first and most popular services offered in Azure is **Virtual Machines**, an IaaS solution.
+
+This lab will walk you through the steps to create and deploy a Windows Server 2019 Datacenter virtual machine. We will also configure a backup of the virtual machine that will be user-accessible for recovery. You will also be able to load a web application in the VM you have just provisioned in Azure.
 
 ## Overview
 
@@ -19,9 +21,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Release Date: 2025-06-12
 
-- **Change**: Tested the lab till Exercie 4, to fix the issue related to weather plugin in **Exercise 3 Task 4** . Updated the weather plugin, C# code in Exercise 3 Task 4. 
-
-  
 - **Testing Date**: 2025-06-12
 
 ## Infrastructure Changes
