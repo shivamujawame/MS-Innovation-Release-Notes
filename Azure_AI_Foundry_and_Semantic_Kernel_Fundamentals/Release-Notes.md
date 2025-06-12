@@ -17,7 +17,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2025-06-10</summary>
 
-### Release Date: 2025-05-28
+### Release Date: 2025-06-10
 
 - **Change**: Tested the lab till Exercie 4, to fix the issue related to weather plugin in **Exercise 3 Task 4** . Updated the weather plugin, C# code in Exercise 3 Task 4. 
 
