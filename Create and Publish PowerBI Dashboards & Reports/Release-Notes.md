@@ -72,4 +72,29 @@ Updated the Getting started page as there were UI updates.
 - **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
 - **Resolved Issues**: NA
 
+
+### 12th June 2025
+
+- **Change**: Updated the Getting started and create and publish page as there were UI and screenshots and updates.
+- **Testing Date**: 2025-06-11
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: Updated the Getting started page as there were UI updates and added enhanced pictures. 
+
+## Screenshot Updates
+
+Updated the Getting started page nd create and publish page as there were UI and screenshots updates.
+
+## Testing Notes
+
+- **Testing Date**: 2025-06-12
+- **Tester**: [Y Tejeesh Raghav]
+- **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
+- **Resolved Issues**: NA
+
 ---
