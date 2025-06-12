@@ -32,7 +32,7 @@ NA
 
 ## Screenshot Updates
 
-- **Change**: Screenshots are udpated.
+- **Change**: Screenshots are updated.
 
 ## Testing Notes
 
