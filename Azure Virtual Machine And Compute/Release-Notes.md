@@ -1,6 +1,6 @@
 # Azure Virtual Machine and Compute 
 
-Welcome to the **Azure Virtual Machine and Compute ** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Azure Virtual Machine and Compute** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
