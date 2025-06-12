@@ -24,11 +24,11 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ## Infrastructure Changes
 
-- 
+- N/A
 
 ## Content Changes
 
-- **Change**:
+- **Change**: Minor changes to enhance the overall user experience.
 
 
 ## Screenshot Updates
