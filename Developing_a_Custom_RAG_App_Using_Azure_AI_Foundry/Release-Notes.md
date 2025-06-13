@@ -1,6 +1,5 @@
-# Build-Custom-Knowledge-RAG-App-With-Azure-AI-Foundry
-
-Welcome to the Build-Custom-Knowledge-RAG-App-With-Azure-AI-Foundry Release-Notes.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+# Developing a Custom RAG App Using Azure AI Foundry
+Welcome to the  **Developing a Custom RAG App Using Azure AI Foundry** Release-Notes.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
