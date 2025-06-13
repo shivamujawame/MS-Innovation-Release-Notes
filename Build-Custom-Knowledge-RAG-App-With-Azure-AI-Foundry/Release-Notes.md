@@ -28,20 +28,20 @@ NA
 
 ## Content Changes
 
-**Change**: Accommodated the new changes from Azure AI Foundry, updated the screenshots.
+**Change**: Incorporated recent updates from Azure AI Foundry and updated the corresponding screenshots accordingly.
+
 #### Lab 1
 
 -  Implemented a new approach to create the AI Hub. Currently building the AI Hub via the Azure portal,from their launching the AI Foundry.
 
 ## Screenshot Updates
 
-- **Change**: Screenshots are updated.
+- **Change**: Screenshots have been updated to align with the revised task execution process
 
 ## Testing Notes
 
-- **Testing Date**: 2025-06-12
-- **Issues Found**: NA
-- **Resolved Issues**: NA
+- **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest UI changes.
+
 
 ---
 </details>
