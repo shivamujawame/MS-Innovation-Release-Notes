@@ -28,7 +28,10 @@ NA
 
 ## Content Changes
 
-- **Change**: Major UI Changes and instructions updated.
+**Change**: Accommodated the new changes from Azure AI Foundry, updated the screenshots.
+#### Lab 1
+
+-  Implemented a new approach to create the AI Hub. Currently building the AI Hub via the Azure portal,from their launching the AI Foundry.
 
 ## Screenshot Updates
 
